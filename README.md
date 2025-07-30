@@ -1,6 +1,6 @@
 # 🌿 Plant Disease Detection Web App
 
-A deep learning–based web app that detects plant diseases from leaf images using a trained TensorFlow model, all wrapped in a simple and interactive Streamlit interface.
+This project goes beyond basic machine learning by leveraging Convolutional Neural Networks (CNNs) for high-accuracy image classification. With a dataset of 87,000+ plant leaf images across 38 disease categories, the model uses deep learning techniques (TensorFlow/Keras) to learn spatial hierarchies in images. It's not just a simple prediction task — it's a scalable, real-world deep learning solution wrapped in a user-friendly Streamlit interface, capable of making accurate predictions on unseen plant diseases.
 
 ---
 
