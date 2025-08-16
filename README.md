@@ -15,8 +15,7 @@ This project leverages Convolutional Neural Networks (CNNs) for high-accuracy im
 
 ## 🖼️ Demo
 
-*(You can add an image or GIF of your running app here for a visual demo. Replace this text with the image link once uploaded to your repo.)*
-`![Demo Image](home_page.jpeg)`
+*`
 
 ---
 
